@@ -1,0 +1,37 @@
+{
+  "name": "verifyenv",
+  "version": "1.0.0",
+  "description": "Checks for missing env variables",
+  "main": "lib/index.js",
+  "scripts": {
+
+  },
+  "author": "the-nishant-singh",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.0.1",
+    "dotenv": "^16.0.1",
+    "lodash": "^4.17.21"
+  },
+  "keywords": [
+    "dotenv",
+    "config",
+    "environment",
+    "checker",
+    "generator",
+    "conf",
+    "env",
+    "file",
+    "check",
+    "sync",
+    "variables"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:the-nishant-singh/verifyenv.git"
+  },
+  "bugs": {
+    "url": "https://github.com/the-nishant-singh/verifyenv/issues"
+  },
+  "homepage": "https://github.com/the-nishant-singh/verifyenv#readme",
+}
