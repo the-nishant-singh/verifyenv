@@ -1,6 +1,6 @@
 {
   "name": "@nishantsingh/verifyenv",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Checks for missing env variables",
   "main": "lib/index.js",
   "scripts": {},
